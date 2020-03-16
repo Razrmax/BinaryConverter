@@ -1,0 +1,11 @@
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.exe
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.deps.json
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.runtimeconfig.json
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.runtimeconfig.dev.json
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.dll
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\bin\Debug\netcoreapp3.1\BinaryConverter.pdb
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.AssemblyInfo.cs
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.dll
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.pdb
+C:\Users\maxim\Desktop\Programming\BinaryConverter\BinaryConverter\obj\Debug\netcoreapp3.1\BinaryConverter.csprojAssemblyReference.cache
